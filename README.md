@@ -10,7 +10,7 @@ Incluye trabajos en programación, videojuegos, realidad virtual, realidad aumen
 -**Raíces de Hilo(E-commerce para la venta de productos de crochet:)** implementación de Angular 17, Laravel 8, MySQL (Apache) y Bootstrap 5.
 -**Calculadora (Método de Euler para Ecuaciones Diferenciales):** Implementación en JavaScript y Chart.js de un método numérico para aproximar soluciones.
 -**Galería de Arte Digital** Creación de una galería de arte digital (dibujos), implementando JavaScript, HTML5 y CSS3. 
--**Modelado de personajes 3D** Implementación de Blender para el modelado 3D de personajes.
+-**Modelado 3D** Implementación de Blender para el modelado 3D de personajes, paisajes y objetos.
 -**Animaciones 2D** Implementación de softwares como Krita e InkScape para la realización de animaciones digitales.
 
 
